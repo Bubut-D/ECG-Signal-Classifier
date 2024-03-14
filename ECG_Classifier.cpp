@@ -5,10 +5,10 @@
 #include<vector>
 using namespace std;
 
-// Every aspect of this code was dicussed in meetings between the CSE students,
+// Every aspect of this code was dicussed in meetings between the members of the group,
 // the general idea of the code was a collective effort.
 
-// The code was gathered into a single source file, managed and polished by Bulut DEM�R.
+// The code was gathered into a single source file, managed and polished by Bulut DEMİR.
 
 int _patientCount = 0;// To keep count of patients.
 // The "Pulse" class was written by Alperen Melih GÖNCÜ.
